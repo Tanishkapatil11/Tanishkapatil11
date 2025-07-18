@@ -9,7 +9,7 @@
 - 🛠️ Interested in full-stack development, mini-projects, and automating everyday tasks  
 - 📚 Continuously learning Java, JavaScript, and how to write clean, maintainable code  
 - 💬 Feel free to connect if you're into software development, student tech communities, or open-source collaboration  
-- 📫 Reach me on [LinkedIn](www.linkedin.com/in/tanishka-patil-808837293)  
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/tanishka-patil-808837293/)  
 - ⚡ Fun fact: I enjoy turning coffee into code and ideas into projects ☕
 
 ---
@@ -48,7 +48,7 @@
 ---
 
 ### 📫 Let's Connect:
-- [LinkedIn](www.linkedin.com/in/tanishka-patil-808837293)
+- [LinkedIn](https://www.linkedin.com/in/tanishka-patil-808837293/)
 - [GitHub](https://github.com/Tanishkapatil11)
 
 ---
