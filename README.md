@@ -49,6 +49,6 @@
 
 ### 📫 Let's Connect:
 - [LinkedIn](www.linkedin.com/in/tanishka-patil-808837293)
-- [GitHub](https://github.com/tanishkapatil)
+- [GitHub](https://github.com/Tanishkapatil11)
 
 ---
