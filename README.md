@@ -4,12 +4,13 @@
 ---
 
 ### 💫 About Me:
-- 🎓 I'm currently pursuing Computer Engineering  
-- 💻 I enjoy building full-stack projects and learning new technologies  
-- 🚀 Currently working on a Chrome Extension project and sharpening my Java skills  
-- 💬 Ask me about Java, JavaScript, or how to start your own mini project  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-link)  
-- ⚡ Fun fact: I believe coffee makes bugs easier to debug ☕
+- 🎓 I'm a **3rd year Computer Engineering student** passionate about building real-world tech solutions  
+- 🧠 I love exploring new technologies and solving practical problems through code  
+- 🛠️ Interested in full-stack development, mini-projects, and automating everyday tasks  
+- 📚 Continuously learning Java, JavaScript, and how to write clean, maintainable code  
+- 💬 Feel free to connect if you're into software development, student tech communities, or open-source collaboration  
+- 📫 Reach me on [LinkedIn](www.linkedin.com/in/tanishka-patil-808837293)  
+- ⚡ Fun fact: I enjoy turning coffee into code and ideas into projects ☕
 
 ---
 
@@ -47,8 +48,7 @@
 ---
 
 ### 📫 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/your-link)
+- [LinkedIn](www.linkedin.com/in/tanishka-patil-808837293)
 - [GitHub](https://github.com/tanishkapatil)
 
 ---
-
